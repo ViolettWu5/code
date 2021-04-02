@@ -1,0 +1,9 @@
+.outside{
+    height:150px;padding:100px;
+    background-color:  #F1E1FF;
+    text-align:center;
+}
+.inside{
+   text-align: center;
+   font-size: 40px;
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>front</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<body style="margin:0px;" onload="hide(0);">
+    <div class="top">
+        <a class="inside">會員頁面登入</a>
+    </div>
+
+    <form action="/signin" id="information" method="POST">
+        帳號<input type="text" id="acc", name="x">
+        密碼<input type="text" id="pas", name="y">
+        <button>登入</button>
+    </form>
+
+    <div class="button">
+        <button onclick="hide(1);">取消</button>
+        <button onclick="hide(2);">顯示密碼</button>
+    </div>
+<!-- partial -->
+  <script  src="../static/script.js"></script>
+
+</body>
+</html>

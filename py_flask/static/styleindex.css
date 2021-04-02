@@ -1,0 +1,72 @@
+.up{				
+	  background-color:#F1E1FF;
+    font-size:40px;
+    text-align:center;height:300px;
+    line-height:300px;margin-top:5px;
+	  width:100%;
+}
+.me{
+	padding:10px;
+}
+body{
+	margin:0;
+}
+		
+.icon{      /* 漢堡選單容器 */
+	position:absolute;top:0px;right:0px;
+	height:30px;
+	display:none;
+}
+		
+.icon2{     /*  漢堡線 */
+	background-color:#FFAF60;
+	width:25px;
+	height:3px;
+	margin:5px;
+}
+		
+.burgermenu{    /*  漢堡後清單  */
+	display:none;
+	background-color: #ffffff;
+	height: 80px;
+	width: 20px;
+	position: absolute;
+	top: 10px;
+	right: 8px;
+}
+
+	
+#nothing{   		/* 隱藏checkbox*/
+	display:none;
+}
+.list{     /*漢堡前清單容器*/
+	position:absolute;
+  top:10px;right:0px;
+	display:flex;
+}
+		
+.menu{		/*漢堡前清單*/
+	justify-content:end;
+	width:50px;
+}
+
+
+
+#btn{
+    height:30px;
+    width:100px;
+}
+.out{
+	text-align:center;
+	position:relative;top:30px;
+	height:60px;line-height:60px;
+}
+
+@media screen and (max-width:600px){
+	.list{
+		display:none;
+	}
+	.up{
+		font-size:35px;
+	}
+}
