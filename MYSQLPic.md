@@ -35,5 +35,18 @@
 *3.9 使用 DELETE 指令刪除所有在 user 資料表中的資料。
 
 
+*4.1 在資料庫中,建立新資料表,取名字為 message。
+![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/create%20table2.JPG "create message")
+![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/create%20table2.1.JPG "create message2")
+
+*4.2 使用 SELECT 搭配 JOIN 的語法,取得所有留言,資料中須包含留言會員的姓名。
+![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/create%20table2.1.JPG "select message")
+
+*4.3 使用 SELECT 搭配 JOIN 的語法,取得 user資料表中欄位 username 是 ply 的所有留言,資料中須包含留言會員的姓名。
+
+![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/plymessage.JPG "ply message")
+
+
+
 
 
