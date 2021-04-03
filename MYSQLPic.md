@@ -20,5 +20,20 @@
 *3.4 使用 SELECT 指令取得所有在 user 資料表中資料,並按照 time 欄位,由近到遠排序
 ![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/orderbytime.JPG "user orderbytime")
 
+*3.5 使用 SELECT指令取得 user資料表中第 2 ~ 4 共三筆資料,並按照 time 欄位,由近到遠排序。
+![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/orderbytime3.JPG "user orderbytime3")
+
+*3.6 使用 SELECT 指令取得欄位 username 是 ply 的使用者資料。
+![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/ply.JPG "ply")
+
+*3.7 使用 SELECT 指令取得欄位 username 是 ply、且欄位 password 也是 ply 的資料。
+![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/ply2.JPG "ply2")
+
+*3.8 使用 UPDATE 指令更新欄位ply 的使用者資料,將資料中的 name 欄位改成【丁滿】。
+![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/ply2.JPG "ply2")
+
+*3.9 使用 DELETE 指令刪除所有在 user 資料表中的資料。
+
+
 
 
