@@ -34,7 +34,9 @@
 ![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/ply2.JPG "ply2")
 
 *3.8 使用 UPDATE 指令更新欄位ply 的使用者資料,將資料中的 name 欄位改成【丁滿】。
-![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/ply2.JPG "ply2")
+![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/%E4%B8%81%E6%BB%BF.JPG "change name")
+![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/%E4%B8%81%E6%BB%BF2.JPG "change name2")
+
 
 *3.9 使用 DELETE 指令刪除所有在 user 資料表中的資料。
 ![GITHUB]( https://github.com/ViolettWu5/code/blob/main/MySQL/delete.jpeg "delete")
